@@ -2,7 +2,7 @@
 
 ## Program for the present, not the future
 
-At elementary, we believe in the YAGNI principle (You aren't gonna need it): Always implement when you _actually have_ a need - but never when you only feel it _may_ be needed some time in the future. Combined with continous refactoring, the YAGNI principle keeps the code base as simple as possible while helping us to avoid technical debt.
+At elementary, we believe in the YAGNI principle \(You aren't gonna need it\): Always implement when you _actually have_ a need - but never when you only feel it _may_ be needed some time in the future. Combined with continous refactoring, the YAGNI principle keeps the code base as simple as possible while helping us to avoid technical debt.
 
 ## Avoid big changes in one go
 
@@ -16,7 +16,7 @@ It's really tempting to do a lot of refactoring and code style improvements as y
 
 ## Keep it consistent
 
-Naming is one of those things that feels trivial but really helps in a few years when it's all new eyes on some code. It can make it much easier to figure out what's happening if we use names that are self explanatory and not too generic, especially if the names are based on (but clearly distinct from) those already present in the libraries used.
+Naming is one of those things that feels trivial but really helps in a few years when it's all new eyes on some code. It can make it much easier to figure out what's happening if we use names that are self explanatory and not too generic, especially if the names are based on \(but clearly distinct from\) those already present in the libraries used.
 
 ## Comment non-trivial code
 
@@ -26,7 +26,7 @@ If you are writing some non-trivial code, make sure to add a comment which expla
 
 If you need to both move and refactor a certain piece of code, its much easier to review if each step is broken down into individual commits:
 
-**Commit #1: Moved logic into do_foo**
+**Commit \#1: Moved logic into do\_foo**
 
 ```diff
 + void do_foo () {
@@ -38,7 +38,7 @@ void other_function () {
 }
 ```
 
-**Commit #2: Changing logic in do_foo**
+**Commit \#2: Changing logic in do\_foo**
 
 ```diff
 void do_foo () {
@@ -56,3 +56,4 @@ Make sure you describe the changes you are proposing in the Pull Request descrip
 ## Review your code yourself first
 
 When you have your initial version for the proposed change working, look into the code you've added once again and ask yourself if anything could be improved before sending it for official Code Review. Of course, if you want some early opinion, there is always the possibility to open a Draft Pull Request first and then convert it to "Ready for Review" later.
+
