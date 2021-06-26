@@ -2,7 +2,7 @@
 
 ## Program for the present, not the future
 
-At elementary, we believe in the YAGNI principle (You aren't gonna need it): Always implement when you _actually have_ a need - but never when you only feel it _may_ be needed some time in the future. Combined with continous refactoring, the YAGNI principle keeps the code base as simple as possible while helping us to avoid technical debt.
+At elementary, we believe in the YAGNI principle (You aren't gonna need it): Always implement when you _actually have_ a need - but never when you only feel it _may_ be needed some time in the future. Combined with continuous refactoring, the YAGNI principle keeps the code base as simple as possible while helping us to avoid technical debt.
 
 ## Avoid big changes in one go
 
