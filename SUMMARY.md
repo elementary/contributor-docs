@@ -2,13 +2,16 @@
 
 * [Contributor Guide](README.md)
 
-## Code Reviews <a id="code-reviews"></a>
+## Development
 
-* [Proposing Code Changes](code-reviews/prepare-code-for-review.md)
-* [Reviewing Code](code-reviews/reviewing-code.md)
+* [Proposing Code Changes](development/prepare-code-for-review.md)
+* [Reviewing Code](development/reviewing-code.md)
+* [Developer Tools](development/developer-tools.md)
 
 ## Feedback
 
-* [Reporting Issues](feedback/reporting-issues.md)
+* [Reporting Issues](feedback/reporting-issues/README.md)
+  * [Inspecting Crashes](feedback/reporting-issues/inspecting-crashes.md)
+  * [Debug Logs](feedback/reporting-issues/debug-logs.md)
 * [Proposing Design Changes](feedback/proposing-design-changes.md)
 
