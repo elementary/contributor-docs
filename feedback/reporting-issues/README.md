@@ -31,17 +31,25 @@ If your report has not already been filed, select the green "New Issue" button a
 
 This will be the title of the issue on the issues page. It's important to be specific because it makes it much easier for a developer or bug manager to search the issue list and helps avoid duplicate reports.
 
-❌️  "App Crashes" or "Increase Performance" are too vague. 
+❌️  _"Performance is bad"_
 
-✅️  "Notification is not sent when process finishes" is a helpful summary.
+This summary is too vague and could possibly describe a number of different issues.
+
+✅️  _"UI is unresponsive while importing"_
+
+This summary describes the specific case where we're experiencing a performance issue and what that issue is in a concise way.
 
 ### Describe The Problem Objectively
 
 The most important thing for an issue report is making sure that a developer will be able to understand and reproduce the issue that you're facing. Describe what happened and contrast it with what you expected to happen instead. If necessary, include exact numbered steps to reproduce the issue.
 
-❌️  "Queuing is unintitive" leaves too much room for interpretation and doesn't specifically describe a problem that can be resolved.
+❌️  _"Queuing is unintitive. I don't like the way it works"_  
 
-✅️  "The panel suddenly appeared instead of being animated in" describes a problem in a way that is actionable and objective.
+This description leaves too much room for interpretation and doesn't specifically describe a problem that can be resolved.
+
+✅️  _"When I add items to the queue, they appear at the top. I expected them to appear at the bottom instead"_ 
+
+This describes a problem in a way that is actionable and objective and explains how to reproduce the issue.
 
 ### Be Prepared To Provide More Information
 
