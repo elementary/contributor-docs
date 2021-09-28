@@ -13,5 +13,5 @@
 * [Reporting Issues](feedback/reporting-issues/README.md)
   * [Inspecting Crashes](feedback/reporting-issues/inspecting-crashes.md)
   * [Retrieving Logs](feedback/reporting-issues/debug-logs.md)
-* [Proposing Design Changes](feedback/proposing-design-changes.md)
+* [Starting Discussions](feedback/starting-discussions.md)
 
