@@ -39,6 +39,8 @@ This summary is too vague and could possibly describe a number of different issu
 
 This summary describes the specific case where we're experiencing a performance issue and what that issue is in a concise way.
 
+Your issue summary should also not include things in brackets like "\[bug\]" or "\[feature request\]". elementary uses labels to categorize issue reports.
+
 ### Describe The Problem Objectively
 
 The most important thing for an issue report is making sure that a developer will be able to understand and reproduce the issue that you're facing. Describe what happened and contrast it with what you expected to happen instead. If necessary, include exact numbered steps to reproduce the issue.
@@ -55,7 +57,7 @@ This describes a problem in a way that is actionable and objective and explains 
 
 Include relevant information like your OS version or any modifications you've made to the system \(like changing your window manager or kernel\). If you're reporting a crash, make sure to [include a backtrace.](inspecting-crashes.md)
 
-If your report does not contain enough information for a developer to reproduce the issue, it may be marked as "Incomplete". Oftentimes, a developer will make a comment requesting additional specific information. If you do not provide that information, your report will eventually be closed.
+If your report does not contain enough information for a developer to reproduce the issue, it may be labeled as "Incomplete".  If it is, a developer will make a comment requesting additional specific information. If you do not provide that information, your report will eventually be closed since it is unable to be acted upon as filed.
 
 ### You Can Get a Bit of Help
 
