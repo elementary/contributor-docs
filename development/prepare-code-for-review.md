@@ -8,6 +8,8 @@ description: Tips for getting your pull requests reviewed
 
 Your PR description should make it easy for a reviewer to know what they are reviewing before they see the code. To avoid wordy descriptions, use bulleted lists to describe changes. When appropriate, add a screenshot or a short video that makes your change more obvious. Good descriptions cut time on the time a reviewer needs to invest and makes your PR more attractive.
 
+If it's not obvious, it can also be helpful to include instructions on how to test your PR, including any pre-requisites or dependencies.
+
 ## Review Your Own Branch
 
 When you have your initial version for the proposed change working, look at your changes once again and ask yourself if anything could be improved before marking it "Ready for Review".
