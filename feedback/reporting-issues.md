@@ -2,7 +2,7 @@
 
 One of the big advantages of being an openly developed project is being able to take part in public bug tracking. However, if you're new to working with public bug tracking, it can be difficult to understand how to report bugs The Right Way™. So let's find out how:
 
-1. Find the "Issues" page for the app in question on [GitHub](https://github.com/elementary). If you open System Settings, select "About" and "Report a Problem", you can select the app to submit an issue. Otherwise, you can search for the app on GitHub, select the "Issues" tab, and then "New Issue" on the right side of the page.
+1. Find the "Issues" page for the app in question on [GitHub](https://github.com/elementary). If you open System Settings, select "System" and "Send Feedback", you can select the app to submit an issue. Otherwise, you can search for the app on GitHub, select the "Issues" tab, and then "New Issue" on the right side of the page.
 2. When filing a new report, it's a good idea to search the issue list to make sure your report hasn't been filed already. If your report has already been filed by someone else, you should add the 👍️ reaction to the report to indicate that you are also affected. Only comment on the report if you can provide additional useful information that may help track down the source of the issue. Do not comment things like, "I have this problem too" or "This is a really important issue".
 3. If your report has not already been filed by someone else and you've reached the "New Issue" page, type in a summary and description of the issue and select "Submit new issue". Keep in mind the following information while filing your report:
 
