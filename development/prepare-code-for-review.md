@@ -12,7 +12,13 @@ If it's not obvious, it can also be helpful to include instructions on how to te
 
 ## Review Your Own Branch
 
-When you have your initial version for the proposed change working, look at your changes once again and ask yourself if anything could be improved before marking it "Ready for Review".
+When you have your initial version for the proposed change working, look at your changes once again and ask yourself if anything could be improved before marking it "Ready for Review". Be sure to check that:
+
+✅️ Your branch adheres to the elementary [code style guide](https://docs.elementary.io/develop/writing-apps/code-style)
+
+✅️ New Terminal warnings are not introduced
+
+✅️ Your branch passes CI
 
 {% hint style="info" %}
 If you need help or your branch isn't quite ready for review, you can open a Draft pull request and convert it to "Ready for Review" later
