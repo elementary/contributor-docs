@@ -16,7 +16,7 @@ When you have your initial version for the proposed change working, look at your
 
 ✅️ Your branch adheres to the elementary [code style guide](https://docs.elementary.io/develop/writing-apps/code-style)
 
-✅️ New Terminal warnings are not introduced
+✅️ No New Terminal warnings are introduced
 
 ✅️ Your branch passes CI
 
