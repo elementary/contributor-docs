@@ -18,7 +18,7 @@ When you have your initial version for the proposed change working, look at your
 
 ✅️ No New Terminal warnings are introduced
 
-✅️ Your branch passes CI
+✅️ Your branch passes required [status checks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/collaborating-on-repositories-with-code-quality-features/about-status-checks)
 
 {% hint style="info" %}
 If you need help or your branch isn't quite ready for review, you can open a Draft pull request and convert it to "Ready for Review" later
