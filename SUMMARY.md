@@ -2,6 +2,10 @@
 
 * [Contributor Guide](README.md)
 
+## Localization
+
+* [Translations](localization/translations.md)
+
 ## Development
 
 * [Proposing Code Changes](development/prepare-code-for-review.md)
@@ -15,7 +19,3 @@
   * [Retrieving Logs](feedback/reporting-issues/debug-logs.md)
 * [Creating Feature Requests](feedback/creating-feature-requests.md)
 * [Starting Discussions](feedback/starting-discussions.md)
-
-## Localization
-
-* [Translations](localization/translations.md)
