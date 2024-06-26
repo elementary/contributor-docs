@@ -20,6 +20,14 @@ By default, you will only be able to suggest translations. If you would like per
 
 When translating you may encounter a situation where you have to decide between several ways of saying the same thing. In these situations we refer to the Ubuntu [general translator guide](https://help.launchpad.net/Translations/Guide), and for language specific issues, we follow Ubuntu's [team translation guidelines](https://translations.launchpad.net/+groups/ubuntu-translators). Following these guidelines ensures uniform translations, while also allowing anyone to contribute.
 
+### Specific Language Style Guides
+
+Some language teams have created guides specific to their language to support their own translation efforts. You can check a list of the current available guides here:
+
+* [Spanish translation](localization-spanish/README.md)
+
+_Please note that each style guide will use their own language to explain their details. Expect these pages to not be available in English._
+
 ## Using a Desktop Translation App
 
 If you don't want to translate using Weblate, or want to make a lot a changes at once, you can also translate offline. To do so:
