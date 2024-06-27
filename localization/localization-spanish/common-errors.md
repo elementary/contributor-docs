@@ -274,17 +274,22 @@ Pero esto no se siente natural, tanto en vocablos como en gramática. Una traduc
 
 ## Evite traducciones automáticas con traductores
 
-Es bastante común caer en la tentación de utilizar servicios de traducción como [el traductor de Google](https://translate.google.com) para obtener una traducción rápida.
+Es bastante común caer en la tentación de utilizar servicios de traducción como [el traductor de Google](https://translate.google.com) para obtener una traducción rápida. 
 
-En principio, no tenemos objeciones sobre el uso de traductores para una base inicial, pero les suplicamos a las personas que hagan esto que revise _dos, tres o cuatro veces la traducción proporcionada por el traductor_.
+_No se recomienda el uso de estos servicios y, de hecho, se prefiere evitarlos completamente._
 
-Muchas veces estos traductores hacen _traducciones literales_. Esto significa que deciden traducir términos de manera literal, sin conocer el contexto del texto o su nivel técnico.
+Existen múltiples razones para ello:
 
-Por ejemplo, muchas veces se traducen palabras de nombres en inglés sin posibles traducciones propias al término técnico como __ (en el contexto de instalaciones externas)  o _cookies_ (en el contexto web), que no tendrían cabida en la traducción final.
+* Estos servicios gratuitos muchas veces son _exclusivamente para uso personal_ y los términos legales de estos servicios suelen ser complicados de usar para una organización como elementary, Inc., exigiendo el pago de licencias comerciales para un proyecto como elementary OS.
 
-O peor aún, a veces ofrecen traducciones que es posible no tengan cabida en lo que se refiere. Por ejemplo, _sideload_ puede llegar a traducirse como «transferencia local» que, aunque técnicamente correcto, en el contexto de elementary no sería el término preciso y puede llegar a confundir en el contexto de elementary (en elementary estamos usando «instalación externa» por ejemplo)
+* Muchas veces estos traductores hacen _traducciones literales_. Esto significa que deciden traducir términos de manera literal, sin conocer el contexto del texto o su nivel técnico. <br>
+Por ejemplo, muchas veces se traducen palabras de nombres en inglés sin posibles traducciones propias al término técnico como _cookies_ (en el contexto web, que traducen a «galletas») o _plugs_ (en el contexto de los complementos de elementary, que traducen a «enchufe»), que no tendrían cabida o sentido en la traducción final.
 
-Los traductores también tienden a _transliterar_ las frases. Esto resulta muchas veces en una traducción que, como se ha expuesto anteriormente, causa un español extraño y con poco sentido.
+* A veces los traductores ofrecen traducciones de palabras que no tienen un perfecto significado a lo que se refiere. Por ejemplo, _sideload_ puede llegar a traducirse como «transferencia local» o «carga lateral» que, aunque técnicamente correctos, en el contexto de elementary no serían los términos precisos y puede llegar a confundir (en elementary estamos usando «instalación externa» para esta palabra).
+
+* Los traductores tienden a _transliterar_ las frases. Esto resulta muchas veces en una traducción que, como se ha expuesto anteriormente, causa un español extraño y con poco sentido.
+
+Por todas estas razones se concluye que no se pueden usar estos servicios de manera satisfactoria y desafortunadamente no podemos recomendar su uso.
 
 
 # Tabla con errores simples al traducir
