@@ -13,7 +13,7 @@ Bienvenidas y bienvenidos a la wiki del equipo de traducción de elementary OS a
 
 _Esta guía no es una biblia inmutable e indiscutible._
 
-Es un conjunto de referencias y acuerdos entre las personas que han traducido elmentary al español que nos resultan convenientes a la hora de traducir el sistema operativo y sus aplicaciones. Y debido a que el español está en continua evolución, las recomendaciones que consignemos aquí hoy pueden cambiar.
+Es un conjunto de referencias y acuerdos entre las personas que han traducido elementary al español que nos resultan convenientes a la hora de traducir el sistema operativo y sus aplicaciones. Y debido a que el español está en continua evolución, las recomendaciones que consignemos aquí hoy pueden cambiar.
 
 Si tiene una petición, queja, reclamo o sugerencia constructiva, es más que bienvenida. Recomendamos iniciar la discusión en:
 
