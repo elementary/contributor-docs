@@ -133,7 +133,7 @@ Es importante mencionar que una gran parte de esta información se ha tomado de 
 
 Se recomienda leer y revisar frecuentemente estas guías para tener claro todos los aspectos de traducción al español para elementary OS.
 
-* Guía de estilo de Ubuntu al español: [Ubuntu Spanish Translators](https://wiki.ubuntu.com/UbuntuSpanishTranslators)
+* Guía de estilo de Ubuntu al español: [Ubuntu Spanish Translators](https://wiki.ubuntu.com/UbuntuSpanishTranslators/Estilo)
 * Guía de estilo de Fedora al español: [Fedora L10N Spanish Team](https://fedoraproject.org/wiki/L10N/Teams/Spanish/Diccionario)
 * Diccionario de términos técnicos e informáticos de Microsoft: [Microsoft Terminology](https://learn.microsoft.com/en-us/globalization/reference/microsoft-terminology) y [Microsoft Terminology Search](https://msit.powerbi.com/view?r=eyJrIjoiODJmYjU4Y2YtM2M0ZC00YzYxLWE1YTktNzFjYmYxNTAxNjQ0IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9)
 * Manual de la RAE con diversos temas [Diccionario panhispánico de dudas](https://www.rae.es/dpd/)
