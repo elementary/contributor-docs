@@ -54,6 +54,55 @@ Se traduciría a:
 
 Nótese que utilizar el verbo _restarting_ como «reiniciando» no tendría sentido en esta frase, es necesario usar el verbo en infinitivo para que funcione.
 
+## Evite el uso de comillas inglesas o sencillas
+
+En español, las comillas inglesas (“, ” o ") o comillas sencillas (` o ') no se utilizan a menos que sea absolutamente necesario. De manera predeterminada, siempre usaremos comillas españolas o angulares (« y ») para textos comunes para el usuario.
+
+Excepciones para utilizar las comillas inglesas o de hacker son:
+
+* Secciones de código de ejemplo de lenguajes de programación como Vala, donde la sintaxis exige el uso de comillas inglesas o comillas simples.
+* Etiquetas de navegador internas del lenguaje HTML, Markdown que exigen el uso de comillas simples y no se pueden cambiar. De lo contrario, el formato de estos lenguajes se rompería.
+
+En Linux, estos caracteres se pueden escribir con la combinación de teclas Alt Gr + Z y Alt Gr + X, respectivamente, con las distribuciones de teclado hispanoamericanas con teclas muertas. En Windows esto se realiza con la combinación Alt + 174 y Alt + 175, respectivamente.
+
+El sitio web de Weblate también ofrece botones que pueden ser presionados con el ratón para colocar estos caracteres.
+
+### Ejemplos
+
+### Ejemplo uno
+
+El texto:
+
+> The program "io.elementary.calendar" may not be installed
+
+Se traduce a:
+
+> Es posible que el programa «io.elementary.calendar» no esté instalado
+
+### Ejemplo dos
+
+> Take this time to read the \<a href="/docs/learning-the-basics">getting started\</a> guide to learn about your new operating system.
+
+Se traduce a:
+
+> Dedique un momento a leer la \<a href="/docs/learning-the-basics">guía de primeros pasos\</a> para aprender a utilizar su nuevo sistema operativo.
+ 
+Nótese que no se traducen las comillas de la etiqueta HTML, ya que es una exigencia para que funcione correctamente y la dejamos como está.
+
+## Evite reemplazar las etiquetas de programación o HTML de un texto
+
+Las etiquetas HTML y otros aspectos de código HTML (o de lenguajes de programación como Vala) tienen una exigencia de sintaxis que no debe ser alterada, ya que rompería el formato HTML y puede causar problemas. Estas partes del texto nunca deben ser traducidas.
+
+### Ejemplo
+
+> You can also secondary-click a window's header bar and choose \<strong\>Resize\</strong\> or press \<kbd\>Alt\</kbd\>\<kbd\>F8\</kbd\> to enter resize mode.
+
+Se traduce a:
+
+> También puede hacer clic con el botón secundario en la barra de encabezado de una ventana y elegir \<strong\>Redimensionar\</strong\> o presionar \<kbd\>Alt\</kbd\>\<kbd\>F8\</kbd\> para ingresar al modo redimensionar.
+
+Nótese que las etiquetas _\<strong\>_ y _\<kbd\>_ no se traducen. Se conserva su estructura para que el formato HTML dibuje correctamente el resultado final.
+
 ## Evite el uso excesivo de los adverbios (es decir, de palabras con «...mente» al final)
 
 Ejemplos de palabras pueden ser _actualmente, automáticamente, momentáneamente, especialmente, nuevamente, accidentalmente, permanentemente, etc_.
