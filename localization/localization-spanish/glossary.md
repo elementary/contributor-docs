@@ -61,6 +61,7 @@ Esta tabla la tomamos de la «Guía de estilo de Ubuntu al español»: [Ubuntu S
 | Click | clic |
 | Double click | Doble clic |
 | Alt | Alt |
+| Alt Gr | Alt Gr |
 | Backspace | Retroceso |
 | Caps Lock | Bloq Mayús |
 | Ctrl | Ctrl |
