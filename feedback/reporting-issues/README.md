@@ -61,5 +61,5 @@ If your report does not contain enough information for a developer to reproduce 
 
 ### You Can Get a Bit of Help
 
-If you're not sure about anything above, you are always welcome to chat with community members and developers in [Discord](https://discord.gg/dGdDfGNa). We might be able to help you track down the project where you should report an issue, or perhaps even aid you with any English language issue you might come across. Most developers want to help you make good bug reports.
+If you're not sure about anything above, you are always welcome to chat with community members and developers in [Discord](https://discord.com/invite/kwRyqGCzm5). We might be able to help you track down the project where you should report an issue, or perhaps even aid you with any English language issue you might come across. Most developers want to help you make good bug reports.
 
