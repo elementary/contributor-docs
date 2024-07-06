@@ -24,7 +24,7 @@ When translating you may encounter a situation where you have to decide between 
 
 Some language teams have created guides specific to their language to support their own translation efforts. You can check a list of the current available guides here:
 
-* [Spanish translation](localization-spanish/README.md)
+* [Spanish translation](es/README.md)
 
 _Please note that each style guide will use their own language to explain their details. Expect these pages to not be available in English._
 
