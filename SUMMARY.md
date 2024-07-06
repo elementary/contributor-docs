@@ -5,6 +5,10 @@
 ## Localization
 
 * [Translations](localization/translations.md)
+  * [Spanish Style Guide](localization/es/README.md)
+    * [Glosario de términos](localization/es/glossary.md)
+    * [Prácticas recomendadas](localization/es/best-practices.md)
+    * [Errores comunes de traducción](localization/es/common-errors.md)
 
 ## Development
 
