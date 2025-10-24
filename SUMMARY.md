@@ -15,6 +15,7 @@
 * [Proposing Code Changes](development/prepare-code-for-review.md)
 * [Reviewing Code](development/reviewing-code.md)
 * [Developer Tools](development/developer-tools.md)
+* [Generative AI Policy](development/generative-ai-policy.md)
 
 ## Feedback
 
