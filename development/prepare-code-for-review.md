@@ -7,7 +7,7 @@ description: Tips for getting your pull requests reviewed
 elementary prioritizes the social and human aspects of working together to create software that improves people’s lives. When proposing code changes, keep the following in mind:
 
 * Respect the time of fellow contributors and participate with good faith and in the spirit of collaboration.
-* Do your best to solve the underlying issue, not just its symptoms.
+* Do your best to solve the underlying issue, not the symptoms.
 * Your proposal should demonstrate knowledge of the problem space you are working on. If you’re having difficulty with this, please ask for help!
 * You must be able to personally reason about and explain your changes. 
 * You must not impersonate yourself through chatbots, agents, or other automated systems.
