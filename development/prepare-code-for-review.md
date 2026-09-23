@@ -4,6 +4,14 @@ description: Tips for getting your pull requests reviewed
 
 # Proposing Code Changes
 
+elementary prioritizes the social and human aspects of working together to create software that improves people’s lives. When proposing code changes, keep the following in mind:
+
+* Respect the time of fellow contributors and participate with good faith and in the spirit of collaboration.
+* Do your best to solve the underlying issue, not just its symptoms.
+* Your proposal should demonstrate knowledge of the problem space you are working on. If you’re having difficulty with this, please ask for help!
+* You must be able to personally reason about and explain your changes. 
+* You must not impersonate yourself through chatbots, agents, or other automated systems.
+
 ## Write a Good Description
 
 Your PR description should make it easy for a reviewer to know what they are reviewing before they see the code. To avoid wordy descriptions, use bulleted lists to describe changes. When appropriate, add a screenshot or a short video that makes your change more obvious. Good descriptions cut time on the time a reviewer needs to invest and makes your PR more attractive.
